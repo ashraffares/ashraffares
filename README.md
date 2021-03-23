@@ -1,7 +1,5 @@
 ### Hello, World 👋
 
-Here are some ideas to get you started:
-
 - 🔭  I’m currently in the Microverse Community
 - 🌱 I’m currently learning ruby
 - 💬 Ask me about Fullstack web Development and software engineering
