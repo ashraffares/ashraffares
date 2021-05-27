@@ -6,3 +6,6 @@
 - 📫 How to reach me: 
 - Gmail: [gmail](ashraffares090@gmail.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/fares-ashraf-382a35176/)
+
+![fares GitHub stats](https://github-readme-stats.vercel.app/api?username=ashraffares)
+![fares Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashraffares&theme=dracula)
