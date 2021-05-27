@@ -1,9 +1,7 @@
 ### Hello, World 👋
 
-- 🔭  I’m currently in the Microverse Community
-- 🌱 I’m currently learning ruby and ruby on rails
-- 💬 Ask me about Fullstack web Development and software engineering
-- 📫 How to reach me: 
+https://user-images.githubusercontent.com/37639594/119794511-dffbcf80-bed7-11eb-9fe8-08a31208e2a8.mp4
+
 - Gmail: [gmail](ashraffares090@gmail.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/fares-ashraf-382a35176/)
 
